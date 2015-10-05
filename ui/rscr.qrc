@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>next-icon.png</file>
+        <file>run-to-cursor.png</file>
+        <file>cancel.png</file>
+        <file>reset.png</file>
+    </qresource>
+</RCC>
